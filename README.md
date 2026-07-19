@@ -4,11 +4,11 @@
 
 I'm transitioning into IT and building practical skills in:
 
-- Python programming
+- Python
 - Linux systems
-- Networking
+- Data visualization
 - Data analytics
-- Automation
+- SQL
 
 ## Current Projects
 
