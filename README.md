@@ -1,47 +1,40 @@
 # Hi, I'm Alex 👋
 
-## About Me
+## Data Analytics & Python
 
-I'm transitioning into IT and building practical skills in:
+I'm building skills in data analytics, automation, and data-driven problem solving.
+
+Currently learning:
 
 - Python
-- Linux systems
-- Data visualization
-- Data analytics
 - SQL
+- Pandas
+- Data visualization
+- Git/GitHub
+- Data analysis workflows
+
+## Background
+
+I have a BSc in Applied Mathematics and experience managing complex technical systems in the yachting industry.
+
+My background has developed strong skills in:
+- Analytical thinking
+- Troubleshooting
+- Working with real-world operational data
+- Independent problem solving
 
 ## Current Projects
 
-🐍 Python Learning
-- Building scripts and automation tools
-- Learning software development fundamentals
+🐍 Python Learning  
+Building Python scripts and learning programming fundamentals.
 
-## My Background
-
-I have a background in applied mathematics and professional sailing/yachting, where I developed skills in:
-- Problem solving
-- Systems troubleshooting
-- Working independently under pressure
+📊 Data Analytics Projects  
+Working toward building dashboards, data analysis tools, and automated reporting systems.
 
 ## Goals
 
-My goal is to build a career in IT by combining technical skills with real-world problem solving.
+My goal is to transition into a data analytics role by combining mathematics, programming, and practical problem-solving.
 
 ---
 
-Currently learning: Python | Linux | Git | Networking
-
-<!--
-**alexwotton0424-hue/alexwotton0424-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning: Python | SQL | Pandas | Data Visualization
