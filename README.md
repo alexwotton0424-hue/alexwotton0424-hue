@@ -1,4 +1,35 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
+
+## About Me
+
+I'm transitioning into IT and building practical skills in:
+
+- Python programming
+- Linux systems
+- Networking
+- Data analytics
+- Automation
+
+## Current Projects
+
+🐍 Python Learning
+- Building scripts and automation tools
+- Learning software development fundamentals
+
+## My Background
+
+I have a background in applied mathematics and professional sailing/yachting, where I developed skills in:
+- Problem solving
+- Systems troubleshooting
+- Working independently under pressure
+
+## Goals
+
+My goal is to build a career in IT by combining technical skills with real-world problem solving.
+
+---
+
+Currently learning: Python | Linux | Git | Networking
 
 <!--
 **alexwotton0424-hue/alexwotton0424-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
